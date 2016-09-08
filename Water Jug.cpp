@@ -1,8 +1,3 @@
-/*input
-4 3
-2 3
-*/
-#include <string>
 #include <bits/stdc++.h>
 using namespace std;
 class nodes{
