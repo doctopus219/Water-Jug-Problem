@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 class nodes{
 	public: 
 		pair<int,int> p;
@@ -7,6 +8,7 @@ class nodes{
 		int second;
 		string s;
 };
+//make string in format (int, int)
 string makestring(int a,int b){
 	std::stringstream out1;
 	std::stringstream out2;
